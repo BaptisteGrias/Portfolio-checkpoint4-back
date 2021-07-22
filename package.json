@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-checkpoint4-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaptisteGrias/Portfolio-checkpoint4-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaptisteGrias/Portfolio-checkpoint4-back/issues"
+  },
+  "homepage": "https://github.com/BaptisteGrias/Portfolio-checkpoint4-back#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.12"
+  }
+}
